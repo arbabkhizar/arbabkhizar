@@ -2,7 +2,7 @@
 
  **WordPress Developer | Web Designer | Woocommerce Expert | Problem Solver**
 
-Welcome to my GitHub profile! I'm passionate about building useful projects, learning new technologies, and improving my development skills every day.
+Welcome to my GitHub profile! I'm passionate about building useful projects in WordPress, learning new technologies, and improving my development skills every day.
 
 ---
 
