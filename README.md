@@ -1,6 +1,6 @@
 # Hi there I'm ARBAB KHIZAR
 
- **WordPress Developer | Tech Enthusiast | Problem Solver**
+ **WordPress Developer | Web Designer | Woocommerce Expert | Problem Solver**
 
 Welcome to my GitHub profile! I'm passionate about building useful projects, learning new technologies, and improving my development skills every day.
 
