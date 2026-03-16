@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm passionate about building useful projects, lea
 
 ##  About Me
 
-*  I’m currently working on **OTHERSHIP** (othership.com)
-*  I’m currently learning **WordPress Deep Functionalities**
-*  I’m looking to collaborate on **WordPress Plugin and Theme Development**
-*  I’m looking for help with **WordPress Theme Development**
+*  Currently working on **OTHERSHIP** (othership.com)
+*  Learning **WordPress Deep Functionalities**
+*  Looking to collaborate on **WordPress Plugin and Theme Development**
+*  Looking for help with **WordPress Theme Development**
 *  Ask me about **WordPress Development**
-*  How to reach me: **https://www.linkedin.com/in/arbab-khizar/**
+*  Reach me: **https://www.linkedin.com/in/arbab-khizar/**
 *  Fun fact: **Quick Learner and Dedicated**
 
 ---
@@ -34,11 +34,11 @@ Welcome to my GitHub profile! I'm passionate about building useful projects, lea
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 * GitHub: https://github.com/Arbabkhizarbadvii
 * LinkedIn: https://www.linkedin.com/in/arbab-khizar/
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile!**
