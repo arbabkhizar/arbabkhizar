@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about building useful projects in W
 
 ##  Connect With Me
 
-* GitHub: https://github.com/Arbabkhizarbadvii
+* GitHub: https://github.com/arbabkhizar
 * LinkedIn: https://www.linkedin.com/in/arbab-khizar/
 
 ---
